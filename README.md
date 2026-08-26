@@ -1,0 +1,114 @@
+# Background Music
+
+A small static site for publishing articles. No server, no database, no build
+tools to install — just Python 3, which macOS already has.
+
+## Publishing a change, start to finish
+
+```sh
+python3 build.py          # regenerate docs/ from content/
+git add -A
+git commit -m "Add new article"
+git push
+```
+
+GitHub Pages redeploys within about a minute.
+
+## Adding an article by hand
+
+Create `content/YYYY-MM-DD-short-title.md`:
+
+```markdown
+---
+title: "The title as it should appear"
+date: 2026-08-26
+---
+
+Your text here.
+```
+
+The date orders the homepage — newest first. Then run `python3 build.py`.
+
+## Importing from Apple Notes
+
+Your articles live in the **Background Music** folder in Notes. To pull in
+whatever is new:
+
+```sh
+python3 import_notes.py
+python3 build.py
+```
+
+Other folders, and a listing of what exists:
+
+```sh
+python3 import_notes.py "literature"
+python3 import_notes.py --list
+```
+
+The importer reads a copy of the Notes database, never the live one, so it is
+safe to run while Notes is open. Notes whose body is empty (title only) are
+skipped, and files already in `content/` are never overwritten — so if you edit
+an article here, a later import will not clobber it. The flip side: editing the
+note in Notes afterwards will *not* update the file. Delete the file in
+`content/` and re-import to pick up changes.
+
+**Images are not imported.** macOS blocks access to the Notes media folder
+without Full Disk Access, so pictures embedded in a note are dropped. To add one
+back, put the image file in `assets/img/` and write a line like
+`![caption](img/filename.jpg)` in the article.
+
+## Importing from Facebook
+
+1. On Facebook: **Settings → Your information → Download your information**
+2. Select **Posts** only, format **JSON**, then request the download.
+3. When the archive arrives, unzip it and find the folder holding
+   `your_posts__check_ins__photos_and_videos_1.json` (the exact name varies).
+4. Run:
+
+```sh
+python3 import_fb.py ~/Downloads/your-export/posts/
+```
+
+Each post becomes a file in `content/`. Posts shorter than 40 characters and
+posts with no text are skipped. Existing files are never overwritten, so you can
+re-run this after a later export and only the new posts come in.
+
+Then edit the titles in `content/` to taste and run `python3 build.py`.
+
+## Settings
+
+`site.json`:
+
+| Key       | Meaning                                                     |
+|-----------|-------------------------------------------------------------|
+| `title`   | Site name, shown in the header and browser tab              |
+| `tagline` | One line under the site name on the homepage                |
+| `author`  | Name in the footer copyright                                |
+| `lang`    | Page language for browsers and screen readers (`th`)         |
+| `noindex` | `true` keeps the site out of Google; `false` allows indexing |
+
+Changing `noindex` takes effect on the next `python3 build.py`.
+
+## Layout
+
+```
+site.json        settings
+content/         your articles, one .md file each  <- you edit these
+assets/          style.css                          <- edit to restyle
+build.py         content/ -> docs/
+import_notes.py  Apple Notes -> content/
+import_fb.py     Facebook JSON -> content/
+docs/            generated output — GitHub Pages serves this; never edit by hand
+```
+
+Everything in `docs/` is overwritten on every build.
+
+## Previewing locally
+
+```sh
+cd docs && python3 -m http.server 8000
+```
+
+Then open http://localhost:8000 — press Ctrl-C to stop. This is only for your
+own machine; it is not how the site is published.
