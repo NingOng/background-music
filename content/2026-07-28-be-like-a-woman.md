@@ -1,6 +1,8 @@
 ---
 title: "Be Like a Woman"
 date: 2026-07-28
+category: เพลง
+note: 739
 ---
 
 “...Do what you want

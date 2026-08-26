@@ -1,6 +1,8 @@
 ---
 title: "Graduation"
 date: 2025-10-01
+category: เพลง
+note: 577
 ---
 
 Graduation ; Hyukoh ; 2018

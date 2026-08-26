@@ -1,6 +1,8 @@
 ---
 title: "Her Social Anxiety (Album)"
 date: 2025-07-17
+category: อัลบั้ม
+note: 508
 ---
 
 Her Social Anxiety (album) ; Solitude Is Bliss ; 2015

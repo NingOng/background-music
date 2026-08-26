@@ -1,6 +1,8 @@
 ---
 title: "How Jeff Buckley inspired Fake Plastic Trees"
 date: 2024-12-18
+category: Story
+note: 367
 ---
 
 “…She looks like the real thing

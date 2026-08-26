@@ -1,6 +1,8 @@
 ---
 title: "I Can’t Get Started"
 date: 2025-05-21
+category: เพลง
+note: 465
 ---
 
 “ฉันท่องบินสุดขอบฟ้า ก่อปฏิวัติถึงสเปน

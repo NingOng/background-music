@@ -22,12 +22,19 @@ Create `content/YYYY-MM-DD-short-title.md`:
 ---
 title: "The title as it should appear"
 date: 2026-08-26
+category: เพลง
 ---
 
 Your text here.
 ```
 
-The date orders the homepage — newest first. Then run `python3 build.py`.
+The date orders the homepage — newest first. `category` is the label shown
+above the title and beside the date on the homepage; the four in use are
+`เพลง`, `ศิลปิน`, `อัลบั้ม`, and `Story`, but any text works. Leave the line
+out and no label is shown. Then run `python3 build.py`.
+
+`import_notes.py --update` preserves the category line, so refreshing an
+article from Notes will not wipe it.
 
 ## Importing from Apple Notes
 

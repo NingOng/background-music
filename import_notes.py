@@ -2,13 +2,25 @@
 """Import a folder of Apple Notes into content/*.md
 
 Usage:
-    python3 import_notes.py                      # folder "Background Music"
-    python3 import_notes.py "Some Other Folder"
-    python3 import_notes.py --list               # show every folder and its note count
+    python3 import_notes.py                  # add notes that are not in content/ yet
+    python3 import_notes.py --update         # refresh articles from their notes
+    python3 import_notes.py --list           # show every folder and its note count
+    python3 import_notes.py "Other Folder"   # a folder other than Background Music
+
+Two deliberately separate modes:
+
+  default    Only creates files that do not exist. Never touches an article you
+             have already edited by hand.
+
+  --update   Only rewrites files that already exist, pulling in edits made in
+             Notes. Never creates anything, so articles you deleted on purpose
+             stay deleted. The "category:" line is preserved.
+
+Articles are matched to their note by the id recorded in the front matter, so
+renaming a note does not create a duplicate.
 
 Notes are stored as gzipped protobuf inside a SQLite database. This reads a
-copy of that database, never the live one. Existing files in content/ are left
-alone, so re-running only brings in notes you have not imported yet.
+copy of that database, never the live one.
 """
 
 import gzip
@@ -106,6 +118,58 @@ def note_text(blob):
 
 
 # --------------------------------------------------------------------------
+# articles already in content/
+# --------------------------------------------------------------------------
+
+def read_front_matter(path):
+    """Return the front-matter keys of an article already in content/."""
+    meta = {}
+    try:
+        with open(path, "r", encoding="utf-8") as fh:
+            text = fh.read()
+    except (IOError, OSError):
+        return meta
+    if not text.startswith("---"):
+        return meta
+    end = text.find("\n---", 3)
+    if end == -1:
+        return meta
+    for line in text[3:end].splitlines():
+        line = line.strip()
+        if ":" in line:
+            key, value = line.split(":", 1)
+            meta[key.strip().lower()] = value.strip().strip('"').strip("'")
+    return meta
+
+
+def index_existing():
+    """Map note id -> path and title -> path for what is already imported."""
+    by_id, by_title = {}, {}
+    if not os.path.isdir(CONTENT):
+        return by_id, by_title
+    for name in sorted(os.listdir(CONTENT)):
+        if not name.endswith(".md") or name.startswith("."):
+            continue
+        path = os.path.join(CONTENT, name)
+        meta = read_front_matter(path)
+        if meta.get("note"):
+            by_id[str(meta["note"])] = path
+        if meta.get("title"):
+            by_title[meta["title"].strip()] = path
+    return by_id, by_title
+
+
+def write_article(path, pk, title, day, body, category=""):
+    """Write one article, keeping any category already assigned to it."""
+    head = ["---", 'title: "%s"' % title.replace('"', "'"), "date: %s" % day]
+    if category:
+        head.append("category: %s" % category)
+    head += ["note: %s" % pk, "---", "", body, ""]
+    with open(path, "w", encoding="utf-8") as fh:
+        fh.write("\n".join(head))
+
+
+# --------------------------------------------------------------------------
 # helpers
 # --------------------------------------------------------------------------
 
@@ -116,6 +180,14 @@ def slugify(text, fallback):
     text = re.sub(r"[^a-z0-9]+", "-", text).strip("-")
     text = re.sub(r"-{2,}", "-", text)
     return text[:60].strip("-") or fallback
+
+
+def clean(body):
+    """Drop image markers and collapse the whitespace Notes leaves behind."""
+    body = body.replace("￼", "")
+    body = re.sub(r"[ \t]+\n", "\n", body)
+    body = re.sub(r"\n{3,}", "\n\n", body)
+    return body.strip()
 
 
 def open_db():
@@ -149,11 +221,13 @@ def list_folders(con):
 # --------------------------------------------------------------------------
 
 def main():
-    args = [a for a in sys.argv[1:]]
-    con, tmp = open_db()
+    args = list(sys.argv[1:])
+    update = "--update" in args
+    args = [a for a in args if not a.startswith("--")]
 
+    con, tmp = open_db()
     try:
-        if "--list" in args:
+        if "--list" in sys.argv[1:]:
             list_folders(con)
             return
 
@@ -176,14 +250,17 @@ def main():
             ORDER BY COALESCE(n.ZCREATIONDATE3, n.ZMODIFICATIONDATE1)""",
             (row[0],)).fetchall()
 
-        print("Folder %r: %d note(s).\n" % (folder, len(rows)))
+        print("Folder %r: %d note(s).  Mode: %s\n"
+              % (folder, len(rows), "update existing" if update else "add new"))
         os.makedirs(CONTENT, exist_ok=True)
 
-        written = empty = existing = 0
-        short_ones = []
+        by_id, by_title = index_existing()
+        created = changed = same = skipped = empty = 0
+        new_titles = []
         seen = set()
 
-        for index, (pk, title, blob, stamp) in enumerate(rows):
+        for pk, title, blob, stamp in rows:
+            pk = str(pk)
             title = (title or "").strip()
             body = note_text(blob) if blob else None
             if body is None:
@@ -194,50 +271,59 @@ def main():
             lines = body.split("\n", 1)
             if lines[0].strip() == title:
                 body = lines[1] if len(lines) > 1 else ""
-            # U+FFFC marks where an image sat; the image itself lives outside
-            # the database, so drop the marker rather than render a tofu box.
-            body = body.replace("\ufffc", "")
-            body = re.sub(r"[ \t]+\n", "\n", body)
-            body = re.sub(r"\n{3,}", "\n\n", body)
-            body = body.strip()
+            body = clean(body)
 
             if not body:
                 empty += 1
-                print("  - %-45s title only, skipped" % title[:45])
                 continue
 
             when = datetime.fromtimestamp((stamp or 0) + APPLE_EPOCH)
             day = when.strftime("%Y-%m-%d")
 
-            slug = slugify(title, "note-%d" % pk)
-            name = "%s-%s" % (day, slug)
-            while name in seen:
-                name = "%s-%s-%d" % (day, slug, pk)
-            seen.add(name)
+            path = by_id.get(pk) or by_title.get(title)
 
-            path = os.path.join(CONTENT, name + ".md")
-            if os.path.exists(path):
-                existing += 1
+            if path and os.path.exists(path):
+                if not update:
+                    skipped += 1
+                    continue
+                meta = read_front_matter(path)
+                before = open(path, "r", encoding="utf-8").read()
+                write_article(path, pk, title, meta.get("date", day), body,
+                              meta.get("category", ""))
+                after = open(path, "r", encoding="utf-8").read()
+                if before == after:
+                    same += 1
+                else:
+                    changed += 1
+                    print("  ~ %-45s updated" % title[:45])
                 continue
 
-            with open(path, "w", encoding="utf-8") as fh:
-                fh.write('---\ntitle: "%s"\ndate: %s\n---\n\n%s\n'
-                         % (title.replace('"', "'"), day, body))
-            written += 1
+            # no file for this note
+            if update:
+                new_titles.append(title)
+                continue
 
-            flag = "  (short)" if len(body) < SHORT else ""
-            if flag:
-                short_ones.append((name, title, len(body)))
-            print("  + %-45s %5d chars%s" % (title[:45], len(body), flag))
+            slug = slugify(title, "note-%s" % pk)
+            name = "%s-%s" % (day, slug)
+            while name in seen:
+                name = "%s-%s-%s" % (day, slug, pk)
+            seen.add(name)
+            write_article(os.path.join(CONTENT, name + ".md"), pk, title, day, body)
+            created += 1
+            print("  + %-45s %5d chars%s"
+                  % (title[:45], len(body), "  (short)" if len(body) < SHORT else ""))
 
-        print("\nImported %d, already present %d, title-only %d."
-              % (written, existing, empty))
-
-        if short_ones:
-            print("\nThese are short enough that they may be jottings rather than\n"
-                  "articles. Delete any you do not want to publish:\n")
-            for name, title, length in short_ones:
-                print("  content/%s.md   (%s, %d chars)" % (name, title, length))
+        if update:
+            print("\nUpdated %d, unchanged %d, title-only %d." % (changed, same, empty))
+            if new_titles:
+                print("\n%d note(s) in the folder have no article here:" % len(new_titles))
+                for t in new_titles:
+                    print("  - %s" % t)
+                print("\nThese were either deleted on purpose or are new. To add them,\n"
+                      "run without --update.")
+        else:
+            print("\nCreated %d, already present %d, title-only %d."
+                  % (created, skipped, empty))
 
         print("\nNext:  python3 build.py")
 

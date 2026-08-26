@@ -213,26 +213,29 @@ def pretty_date(value):
 
 
 def page(cfg, title, body, is_home=False, article_date=None,
-         description="", filename="index.html"):
+         description="", filename="index.html", category=""):
     robots = '\n  <meta name="robots" content="noindex, nofollow">' if cfg.get("noindex") else ""
     site_title = html.escape(cfg.get("title", "Articles"), quote=True)
     head_title = site_title if is_home else "%s — %s" % (html.escape(title), site_title)
 
     if is_home:
+        tagline = cfg.get("tagline", "").strip()
         header = (
             '<header class="site">\n'
-            '  <h1>%s</h1>\n'
-            '  <p class="tagline">%s</p>\n'
-            '</header>' % (site_title, html.escape(cfg.get("tagline", ""), quote=False))
+            '  <h1>%s</h1>%s\n'
+            '</header>' % (site_title,
+                           ('\n  <p class="tagline">%s</p>'
+                            % html.escape(tagline, quote=False)) if tagline else "")
         )
     else:
         meta = '<p class="date">%s</p>' % pretty_date(article_date) if article_date else ""
+        kicker = ('<p class="kicker">%s</p>\n  ' % html.escape(category)) if category else ""
         header = (
             '<header class="article">\n'
             '  <p class="back"><a href="./index.html">← %s</a></p>\n'
-            '  <h1>%s</h1>\n'
+            '  %s<h1>%s</h1>\n'
             '  %s\n'
-            '</header>' % (site_title, html.escape(title), meta)
+            '</header>' % (site_title, kicker, html.escape(title), meta)
         )
 
     # Search engines and link previews (Facebook, LINE, Messenger) read these.
@@ -301,6 +304,7 @@ def main():
             "slug": slug,
             "title": meta.get("title") or slug.replace("-", " ").title(),
             "date": meta.get("date", ""),
+            "category": meta.get("category", ""),
             "body": body,
         })
 
@@ -320,7 +324,8 @@ def main():
         out = page(cfg, art["title"], markdown(art["body"]),
                    article_date=art["date"] or None,
                    description=excerpt(art["body"], 155),
-                   filename=art["slug"] + ".html")
+                   filename=art["slug"] + ".html",
+                   category=art["category"])
         with open(os.path.join(DOCS, art["slug"] + ".html"), "w", encoding="utf-8") as fh:
             fh.write(out)
 
@@ -328,7 +333,12 @@ def main():
     if articles:
         items = []
         for art in articles:
-            meta = ('<p class="date">%s</p>' % pretty_date(art["date"])) if art["date"] else ""
+            bits = []
+            if art["category"]:
+                bits.append('<span class="cat">%s</span>' % html.escape(art["category"]))
+            if art["date"]:
+                bits.append(pretty_date(art["date"]))
+            meta = ('<p class="date">%s</p>' % " · ".join(bits)) if bits else ""
             items.append(
                 '    <li>\n'
                 '      <a class="title" href="./%s.html">%s</a>\n'

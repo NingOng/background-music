@@ -1,6 +1,8 @@
 ---
 title: "Haruomi Hosono"
 date: 2025-05-28
+category: ศิลปิน
+note: 470
 ---
 
 อิทธิพลตะวันตก Happy End

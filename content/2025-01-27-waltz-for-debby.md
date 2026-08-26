@@ -1,6 +1,8 @@
 ---
 title: "Waltz for Debby"
 date: 2025-01-27
+category: เพลง
+note: 405
 ---
 
 "Waltz for Debby" แต่ว่า 'Debby' ที่ว่านี้คือใครกัน?

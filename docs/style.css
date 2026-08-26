@@ -94,6 +94,24 @@ header.article h1 {
   letter-spacing: .02em;
 }
 
+/* ---------- category label ---------- */
+
+.kicker {
+  margin: 0 0 .5rem;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
+               "Noto Sans Thai", Thonburi, sans-serif;
+  font-size: .75rem;
+  font-weight: 600;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: var(--link);
+}
+
+.cat {
+  font-weight: 600;
+  color: var(--link);
+}
+
 /* ---------- index listing ---------- */
 
 ul.articles {
