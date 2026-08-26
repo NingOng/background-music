@@ -76,6 +76,24 @@ re-run this after a later export and only the new posts come in.
 
 Then edit the titles in `content/` to taste and run `python3 build.py`.
 
+## Removing an article
+
+Delete its file from `content/`, rebuild, and push:
+
+```sh
+rm content/2025-02-08-the-girl-from-ipanema.md
+python3 build.py
+git add -A && git commit -m "Remove an article" && git push
+```
+
+`build.py` wipes `docs/` and regenerates it, so the page disappears from the
+site and from the homepage list. Do not delete the file in `docs/` by hand — the
+next build would put it back.
+
+One caveat: the article is still in Apple Notes, so `import_notes.py` would
+bring it back. Either move the note out of the Background Music folder, or just
+remember not to re-import it.
+
 ## Settings
 
 `site.json`:
@@ -85,6 +103,7 @@ Then edit the titles in `content/` to taste and run `python3 build.py`.
 | `title`   | Site name, shown in the header and browser tab              |
 | `tagline` | One line under the site name on the homepage                |
 | `author`  | Name in the footer copyright                                |
+| `url`     | Public address of the site; used for sitemap and link previews |
 | `lang`    | Page language for browsers and screen readers (`th`)         |
 | `noindex` | `true` keeps the site out of Google; `false` allows indexing |
 

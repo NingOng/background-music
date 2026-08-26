@@ -212,7 +212,8 @@ def pretty_date(value):
         return str(value)
 
 
-def page(cfg, title, body, is_home=False, article_date=None):
+def page(cfg, title, body, is_home=False, article_date=None,
+         description="", filename="index.html"):
     robots = '\n  <meta name="robots" content="noindex, nofollow">' if cfg.get("noindex") else ""
     site_title = html.escape(cfg.get("title", "Articles"), quote=True)
     head_title = site_title if is_home else "%s — %s" % (html.escape(title), site_title)
@@ -234,11 +235,32 @@ def page(cfg, title, body, is_home=False, article_date=None):
             '</header>' % (site_title, html.escape(title), meta)
         )
 
+    # Search engines and link previews (Facebook, LINE, Messenger) read these.
+    desc = html.escape(description or cfg.get("tagline", ""), quote=True)
+    base = cfg.get("url", "").rstrip("/")
+    canonical = "%s/%s" % (base, filename) if base else ""
+
+    extra = ""
+    if desc:
+        extra += '\n  <meta name="description" content="%s">' % desc
+    if canonical:
+        extra += '\n  <link rel="canonical" href="%s">' % canonical
+        extra += '\n  <meta property="og:url" content="%s">' % canonical
+    extra += '\n  <meta property="og:title" content="%s">' % html.escape(
+        title if not is_home else cfg.get("title", ""), quote=True)
+    if desc:
+        extra += '\n  <meta property="og:description" content="%s">' % desc
+    extra += '\n  <meta property="og:type" content="%s">' % (
+        "website" if is_home else "article")
+    extra += '\n  <meta property="og:site_name" content="%s">' % html.escape(
+        cfg.get("title", ""), quote=True)
+    extra += '\n  <meta name="twitter:card" content="summary">'
+
     return """<!doctype html>
 <html lang="%s">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">%s
+  <meta name="viewport" content="width=device-width, initial-scale=1">%s%s
   <title>%s</title>
   <link rel="stylesheet" href="./style.css">
 </head>
@@ -252,7 +274,7 @@ def page(cfg, title, body, is_home=False, article_date=None):
   </footer>
 </body>
 </html>
-""" % (cfg.get("lang", "en"), robots, head_title, header, body,
+""" % (cfg.get("lang", "en"), robots, extra, head_title, header, body,
        date.today().year, html.escape(cfg.get("author", ""), quote=False))
 
 
@@ -296,7 +318,9 @@ def main():
 
     for art in articles:
         out = page(cfg, art["title"], markdown(art["body"]),
-                   article_date=art["date"] or None)
+                   article_date=art["date"] or None,
+                   description=excerpt(art["body"], 155),
+                   filename=art["slug"] + ".html")
         with open(os.path.join(DOCS, art["slug"] + ".html"), "w", encoding="utf-8") as fh:
             fh.write(out)
 
@@ -318,16 +342,38 @@ def main():
         listing = '<p class="empty">No articles yet. Add a .md file to content/ and run the build again.</p>'
 
     with open(os.path.join(DOCS, "index.html"), "w", encoding="utf-8") as fh:
-        fh.write(page(cfg, cfg.get("title", "Articles"), listing, is_home=True))
+        fh.write(page(cfg, cfg.get("title", "Articles"), listing, is_home=True,
+                      filename="index.html"))
 
     shutil.copyfile(os.path.join(ASSETS, "style.css"), os.path.join(DOCS, "style.css"))
 
     # tells GitHub Pages to serve the files as-is
     open(os.path.join(DOCS, ".nojekyll"), "w").close()
 
+    base = cfg.get("url", "").rstrip("/")
+
+    if cfg.get("noindex"):
+        robots_txt = "User-agent: *\nDisallow: /\n"
+    else:
+        robots_txt = "User-agent: *\nAllow: /\n"
+        if base:
+            robots_txt += "Sitemap: %s/sitemap.xml\n" % base
+
     with open(os.path.join(DOCS, "robots.txt"), "w", encoding="utf-8") as fh:
-        fh.write("User-agent: *\nDisallow: /\n" if cfg.get("noindex")
-                 else "User-agent: *\nAllow: /\n")
+        fh.write(robots_txt)
+
+    # A sitemap tells Google every page exists without it having to crawl links.
+    if base and not cfg.get("noindex"):
+        urls = ['<url><loc>%s/</loc></url>' % base]
+        for art in articles:
+            when = ("<lastmod>%s</lastmod>" % art["date"]) if art["date"] else ""
+            urls.append('<url><loc>%s/%s.html</loc>%s</url>'
+                        % (base, art["slug"], when))
+        with open(os.path.join(DOCS, "sitemap.xml"), "w", encoding="utf-8") as fh:
+            fh.write('<?xml version="1.0" encoding="UTF-8"?>\n'
+                     '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+                     + "\n".join("  " + u for u in urls)
+                     + "\n</urlset>\n")
 
     print("Built %d article(s) into docs/" % len(articles))
     for art in articles:
