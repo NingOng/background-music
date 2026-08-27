@@ -4,5 +4,19 @@
   "author": "Background Music",
   "lang": "th",
   "url": "https://ningong.github.io/background-music",
-  "noindex": false
+  "noindex": false,
+  "categories": {
+    "เพลง": {
+      "en": "Song"
+    },
+    "ศิลปิน": {
+      "en": "Artist"
+    },
+    "อัลบั้ม": {
+      "en": "Album"
+    },
+    "Story": {
+      "en": "Story"
+    }
+  }
 }
