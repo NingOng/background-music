@@ -113,8 +113,26 @@ remember not to re-import it.
 | `url`     | Public address of the site; used for sitemap and link previews |
 | `lang`    | Page language for browsers and screen readers (`th`)         |
 | `noindex` | `true` keeps the site out of Google; `false` allows indexing |
+| `google_verification` | Token from Google Search Console; proves you own the site. Leave `""` if unused |
 
 Changing `noindex` takes effect on the next `python3 build.py`.
+
+## Verifying the site with Google
+
+Search Console hands you a tag like
+`<meta name="google-site-verification" content="XXXX" />`. Take the value of
+`content` only and put it in `site.json` as `google_verification`, then rebuild
+and push:
+
+```sh
+python3 build.py
+git add -A && git commit -m "Verify the site with Google" && git push
+```
+
+The tag goes into the `<head>` of every generated page. Wait for GitHub Pages to
+redeploy, then press Verify. Do not paste the tag into `docs/index.html` by
+hand — the next build wipes `docs/` and the tag would disappear, un-verifying
+the site.
 
 ## Layout
 

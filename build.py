@@ -225,6 +225,11 @@ def page(cfg, edition, title, body, is_home=False, article_date=None,
     key, _src, outdir, htmllang, _label = edition
     robots = ('\n  <meta name="robots" content="noindex, nofollow">'
               if cfg.get("noindex") else "")
+    # Search Console proves ownership by finding this tag on the site.
+    verify = cfg.get("google_verification", "").strip()
+    if verify:
+        robots += ('\n  <meta name="google-site-verification" content="%s">'
+                   % html.escape(verify, quote=True))
     site_title = html.escape(cfg.get("title", "Articles"), quote=True)
     head_title = site_title if is_home else "%s — %s" % (html.escape(title), site_title)
 
