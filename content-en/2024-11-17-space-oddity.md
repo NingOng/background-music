@@ -5,34 +5,34 @@ category: เพลง
 note: 307
 ---
 
-“ศูนย์ควบคุมถึงผู้พันทอม นับถอยหลัง จุดเชื้อเพลิงเครื่องยนต์ และขอพระเจ้าจงสถิตอยู่กับคุณ”
+“Ground Control to Major Tom — counting down, fire the engines, and may God be with you.”
 
-Many people will have heard David Bowie’s celebrated song “Space Oddity” — whether by chance, or from the clip of the astronaut Chris Hadfield covering it, or even hearing it for the first time in that famous scene from the film “The Secret Life of Walter Mitty.”
+Most people have run into David Bowie’s “Space Oddity” one way or another: stumbling across it, seeing the clip of astronaut Chris Hadfield covering it aboard the ISS, or hearing it for the first time in that famous scene from “The Secret Life of Walter Mitty.”
 
-Today Background Music would like to take you through the origins of one of the songs that made David Bowie’s name.
+Today Background Music would like to walk you through where one of the songs that made David Bowie came from.
 
-The story goes back to 1967, when the twenty-year-old David Bowie released his first album with Deram Records, titled “David Bowie.” Sadly it went largely unnoticed at the time, thanks to a failed promotional campaign.
+Go back to 1967. Bowie, twenty years old, released his first album on Deram Records, titled simply “David Bowie.” It sank without much trace, largely because the promotion around it fell flat.
 
-Bowie then changed his personal manager to Kenneth Pitt, and Pitt had Bowie act in a film he made himself as a way of promoting the album. In the end, that film was never released.
+Bowie then took on a new manager, Kenneth Pitt, who put him in a film of his own making as a way of pushing the album. The film was never released.
 
-Bowie began to feel that a career in music was slipping away from him — as though he were some strange alien. So his manager, Pitt, told him to write something that would make listeners remember him as himself, as much as possible.
+Bowie started to feel that a career in music was quietly abandoning him — as though he were some odd alien nobody knew what to do with. So Pitt told him to write something, anything, that would make people remember him as himself.
 
-In 1969 Bowie saw a film: “2001: A Space Odyssey,” a philosophical science-fiction picture that was extraordinarily ahead of its time. He even said: “I was shocked after seeing that film, especially the scene of the journey out on the mission.” He also spoke of the wonder of the “Earthrise” photograph, which had just been taken by Apollo 8.
+In 1969 Bowie saw a film: “2001: A Space Odyssey,” a piece of philosophical science fiction extraordinarily far ahead of its time. As he put it, “That film shook me — especially the sequence of the journey out on the mission.” He also spoke about the wonder of “Earthrise,” the photograph Apollo 8 had just brought home.
 
-Another event that started him writing was breaking up with his ex-girlfriend, a dancer. “Part of it was because of her. She made me write for something, and for someone.”
+The other thing that got him writing was a break-up with his girlfriend, a dancer. “Part of it was down to her. She made me write for something, and for someone.”
 
-In the end, Bowie released the single “Space Oddity” and a second album under the same title, “David Bowie,” within the same year, on a new label, Mercury Records.
+Bowie eventually released the single “Space Oddity” along with a second album, again titled “David Bowie,” in the same year, on a new label, Mercury Records.
 
-In the lyrics, Bowie leads the listener into the story of Major Tom’s journey into space, and his back-and-forth conversation with the command centre back on Earth — Ground Control.
+In the lyrics, Bowie hands us the story of Major Tom’s trip into space and his back-and-forth with the command centre back home — Ground Control.
 
-“ถึงผมจะเดินทางมาตั้งหนึ่งแสนไมลส์ แต่กระนั้นผมยังคงรู้สึกเช่นเดิม ดั่งยานของผมมันรู้ว่าควรจะลอยไปทางไหน ได้โปรดบอกภรรยาผม ผมรักเธอ เธอรู้ดี”
+“I’ve come a hundred thousand miles, and still I feel the same. My ship seems to know which way to drift. Tell my wife I love her — she knows.”
 
-“ศูนย์ควบคุมถึงผู้พันทอม วงจรขัดข้อง มีบางอย่างผิดปกติ คุณได้ยินไหมผู้พันทอม คุณได้ยินเราไหมผู้พัน คุณได้ยินไหม….”
+“Ground Control to Major Tom — your circuit’s failed, something is wrong. Can you hear me, Major Tom? Can you hear us, Major? Can you hear…”
 
-“…ถึงตอนนี้ ผมยังคงล่องลอยอยู่ในกระป๋องโลหะกลวงเปล่า ไกลออกไปจากดวงจันทร์ ดาวโลกยังคงเป็นสีฟ้า และไม่มีอะไรอีกแล้วที่ผมจะทำได้”
+“…and here I am, still drifting in a hollow tin can, far out past the moon. Earth is still blue, and there is nothing left that I can do.”
 
-These are only portions of the lyrics. Of course, with its extraordinary arrangement and words that stood apart from the songs of its day, the record became a huge success at the time. Bowie went on releasing albums until he found success.
+That is only part of it. Between the strange, elaborate arrangement and lyrics that stood well apart from anything else around at the time, the song became a considerable hit, and Bowie went on releasing records until success finally stuck.
 
-And because he dared to be himself, no matter how much society saw him as a strange alien, Bowie showed that confidence in what you are and what you have is one of the most important things in life.
+And because he had the nerve to be himself, however much the world saw him as a strange alien, Bowie made his case: being sure of what you are, and what you have, is about as important as anything gets.
 
-“ศูนย์ควบคุมถึงผู้พันทอม คุณทำได้เยี่ยมมาก ถึงเวลาออกจากแคปซูลแล้วถ้าคุณกล้าพอ”
+“Ground Control to Major Tom — you’ve done splendidly. Time to leave the capsule, if you dare.”

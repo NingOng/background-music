@@ -5,24 +5,24 @@ category: เพลง
 note: 405
 ---
 
-"Waltz for Debby" — but who exactly is this 'Debby'?
+"Waltz for Debby" — but who was Debby?
 
-"Waltz for Debby" is one of the signature works of the great jazz pianist Bill Evans. It began as nothing more than a solo piano track a little over a minute long, on his debut album 'New Jazz Conceptions' (1956).
+"Waltz for Debby" is one of the signature pieces of the great jazz pianist Bill Evans. It started life as a solo piano track barely over a minute long, on his debut album 'New Jazz Conceptions' (1956).
 
-The Debby Evans meant here was in fact his niece, three years old at the time — his brother's daughter. Evans and the family often took Debby out to the sea.
+The Debby in question was Debby Evans, his niece, three years old at the time — his brother's daughter. Evans and the family were forever taking her out to the sea.
 
-It was out of that fondness that he wrote 'Waltz for Debby', two years before his debut album came out. The word 'waltz' in this context means a piece in a tempo suited to ballroom dancing between a man and a woman, a form descended from Austrian and German folk dance.
+It was that fondness that produced 'Waltz for Debby', written two years before the debut album came out. 'Waltz' here means a piece in the tempo for ballroom dancing between a man and a woman, a form that came down from Austrian and German folk dance.
 
-As for the composition, Bill drew heavily on Romantic-era classical music. The piece opens rather like a classical work, then moves back and forth into jazz. If you traced its model, it would carry an accent close to the music of the German composer Robert Schumann. Later, after taking 'Waltz for Debby' on stage, Evans began improvising at greater and greater length, until it became the version generally heard afterwards.
+As a composition, it owes a great deal to Romantic-era classical music. It opens rather like a classical piece, then keeps stepping back and forth into jazz. If you traced the model, the accent would be close to Robert Schumann. Later, once Evans started playing it on stage, his improvisations grew longer and longer, until what came out of that became the version people generally know.
 
-The version regarded as the masterpiece of 'Waltz for Debby' is the live performance by Bill Evans, bassist Scott LaFaro, and drummer Paul Motian at the Village Vanguard in New York City in 1961 — and it was the second take at that (the first take became a bonus track instead).
+The recording considered the masterpiece is the live performance by Evans with bassist Scott LaFaro and drummer Paul Motian at the Village Vanguard in New York, in 1961 — and it was the second take at that. The first ended up as a bonus track.
 
-That version was later included on the album of the same name, “Waltz for Debby” (1961), under the name of the Bill Evans Trio.
+That version went onto the album of the same name, “Waltz for Debby” (1961), credited to the Bill Evans Trio.
 
-'Waltz for Debby' has been covered and performed more than 300 times, and 20% of the covers released misspell 'Debby' as 'Debbie'.
+'Waltz for Debby' has been covered and performed more than 300 times, and 20% of the covers released spell 'Debby' as 'Debbie'.
 
-Bill performed the piece live for the last time on 7 September 1980 at the Keystone Korner in San Francisco, just eight days before he died.
+Evans played it live for the last time on 7 September 1980 at the Keystone Korner in San Francisco, eight days before he died.
 
-Evans had a particular attachment to the waltz form. Of the fifty-odd pieces he composed, at least ten are waltzes — among them "Very Early" (1949), "G Waltz" (1967), "B Minor Waltz" (1977), and "We Will Meet Again" (1977).
+He had a particular attachment to the waltz. Of the fifty-odd pieces he wrote, at least ten are waltzes — "Very Early" (1949), "G Waltz" (1967), "B Minor Waltz" (1977), "We Will Meet Again" (1977).
 
 Sources: Bill Evans: How My Heart Sings by Peter Pettinger; Wikipedia: Waltz for Debby (song)

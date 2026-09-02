@@ -5,73 +5,73 @@ category: อัลบั้ม
 note: 608
 ---
 
-“I think there must be something wrong with me, Linus. Christmas is coming, but I’m not happy. I shouldn’t feel this way at all.”
+“I think there must be something wrong with me, Linus. Christmas is coming, and I’m not happy. I shouldn’t feel this way at all.”
 
-If someone were to ask me what kind of piano sound suits Christmas best, I could not avoid answering: the piano of Vince Guaraldi — which would have to come attached to A Charlie Brown Christmas.
+If somebody asked me what kind of piano sound belongs to Christmas, I could not avoid saying: Vince Guaraldi’s — which comes attached, inevitably, to A Charlie Brown Christmas.
 
-‘A Charlie Brown Christmas’ is the soundtrack album to a special year-end television programme of the cartoon “Peanuts”, from the character we all know as Snoopy, back in 1965. And the show very nearly never happened at all.
+‘A Charlie Brown Christmas’ is the soundtrack to a year-end television special of the Peanuts comic strip — the one with Snoopy in it — from 1965. And the show very nearly never happened.
 
-Two years earlier, the programme’s producer, Lee Mendelson, was searching for a composer who would suit a Peanuts documentary. Mendelson’s first choice was Dave Brubeck, whose ‘Take Five’ was a huge hit at the time.
+Two years earlier, the producer, Lee Mendelson, was looking for a composer to suit a Peanuts documentary. His first choice was Dave Brubeck, whose ‘Take Five’ was everywhere at the time.
 
-But Dave was unavailable, so he recommended a musician who had just won a Grammy in jazz — Vince Guaraldi — to Lee Mendelson.
+Brubeck was unavailable, so he pointed Mendelson toward a musician who had just won a jazz Grammy: Vince Guaraldi.
 
-Vince Guaraldi was born in San Francisco in 1928 and began playing piano at seven years old. Although he had to serve as a cook in the Korean War along the way, Vince found a path back to studying music, got work playing in bars, and formed a jazz trio of his own.
+Guaraldi was born in San Francisco in 1928 and started playing piano at seven. He had to serve as a cook in the Korean War along the way, but he found his way back to studying music, picked up work playing bars, and put together a trio of his own.
 
-Vince had a particular attachment to Latin jazz and bossa nova, and we often hear those accents in his music. The song ‘Linus and Lucy’ on this Christmas album was inspired by ‘Cast Your Fate to the Wind’, Vince’s most famous single.
+He had a particular feel for Latin jazz and bossa nova, and you hear those accents all through his playing. ‘Linus and Lucy’, on this Christmas record, came out of ‘Cast Your Fate to the Wind’, his most famous single.
 
-After producer Lee Mendelson got in touch with Vince, while they were on the phone Vince said: “I’ve written a song and you have to hear it right now. I wrote it rough because I was afraid I’d forget it.”
+When Mendelson got in touch, Guaraldi said, on the phone: “I’ve written something and you have to hear it right now. I wrote it rough because I was afraid I’d forget it.”
 
-Lee replied: “Oh, don’t — I don’t want to hear it over the phone…” “Don’t move!” Vince cut in, and began playing the first draft of ‘Linus and Lucy’ for him.
+Mendelson said: “Oh, don’t — I don’t want to hear it down a telephone…” “Don’t move!” Guaraldi cut in, and played him the first draft of ‘Linus and Lucy’.
 
-Lee recounted: “That was when I thought about how much this song would come to mean to me, and to all of us, one way or another. I wasn’t sure yet, but in the end it became our main theme.”
+Mendelson later said: “That was the moment I thought about how much this was going to mean to me, and to all of us, one way or another. I wasn’t sure yet, but it ended up as our main theme.”
 
-As for the story, Charlie Brown’s begins with a conversation between him and Linus.
+The story itself opens on a conversation between Charlie Brown and Linus.
 
-“I think there must be something wrong with me, Linus. Christmas is almost here, but I’m not happy. Why is that? I shouldn’t feel this way at all.”
+“I think there must be something wrong with me, Linus. Christmas is almost here, and I’m not happy. Why is that? I shouldn’t feel this way at all.”
 
-Charlie Brown senses some force at work — that Christmas has become advertising space for every kind of media, from contests for the most beautifully decorated house to competitions to be Santa’s best child.
+Charlie Brown can feel something at work — that Christmas has turned into advertising space, from contests for the best-decorated house to the competition to be Santa’s best child.
 
-He doesn’t feel like doing any of it, and does that mean he isn’t made for Christmas? Readers can go and watch this Peanuts special first, or else listen through some of the songs from the album that I love in particular.
+He does not want any of it, and does that mean Christmas is not for him? You can go and watch the special first if you like, or else listen through a few of the songs from the album that I love in particular.
 
 Christmas Time is Here
-This song is split across two tracks: a version with vocals and a solo piano version. In the piano version, Vince wrote chords that let the listener reach a sadness that is not grief so much as melancholy.
+The song is split across two tracks: one with voices, one solo piano. On the piano version, Guaraldi writes chords that get the listener to a sadness which is not grief so much as low cloud.
 
-What would you do if Christmas arrived and you didn’t feel joyful in the slightest? That is probably what little Charlie Brown feels. It opens on a bright major ninth, followed by a flat chord that seems to have something missing, before the chords descend the scale and return to the first chord, back at the beginning.
+What do you do if Christmas arrives and you feel nothing joyful whatsoever? Which is presumably what Charlie Brown is dealing with. It opens on a bright major ninth, then a flat chord that sounds as though something has gone missing, and the chords walk down the scale and come back to where they started.
 
-At the same time, in the version sung by a children’s chorus, even though these jazz chords are complicated, Vince wrote the vocal lines to be strangely easy to sing.
+Meanwhile, in the version the children’s chorus sings, the jazz chords underneath are complicated — and yet Guaraldi wrote the vocal line to be strangely easy to sing.
 
-And this is something rather special. What Vince did was present jazz in its most accessible form. His listeners did not need to have studied jazz or to understand it — they only had to listen and sing along, and the melodies would combine just so, creating sweet harmony, giving children a place to start listening to jazz without realising it.
+Which is the remarkable part. What he did was hand jazz over in its most approachable possible form. Nobody listening had to have studied it or to understand it; they only had to listen and sing along, and the melodies would fall together into harmony. It got a generation of children listening to jazz without noticing they were doing it.
 
 Skating
-“You’ve got to get involved,” Lucy says to Charlie Brown. “We need a director for the special. Why don’t you try being the director?”
+“You’ve got to get involved,” Lucy tells Charlie Brown. “We need a director for the show. Why don’t you be the director?”
 
-Lucy thinks the reason Charlie Brown is so down may be that he isn’t taking part with his friends, so she suggests he direct the coming Christmas show.
+Lucy thinks the reason he is so low may be that he is not taking part in anything with his friends, so she puts him in charge of the coming Christmas play.
 
-Skating is special in that Vince changes the mood of the piece as easily as merely changing the tempo. From the fun of the opening, by the middle of the piece he shifts the rhythm to a swing, with beautiful improvisation on top — while still keeping the children’s sense of fun.
+Skating is special in how easily Guaraldi shifts the mood of the thing, as though all it took were a change of tempo. Out of the fun of the opening, the middle turns into a swing, with some genuinely lovely improvising over it, and the children’s fun still intact.
 
 Great Pumpkin Waltz
-Although this piece isn’t from the show itself, but was added at the end of the album’s tracks, I would still say it is one of the warmest things Vince ever wrote.
+This one is not from the special at all; it was added at the end of the album. Even so I would call it one of the warmest things Guaraldi ever wrote.
 
-The embracing warmth of the piano chords, carried on by flute, various winds, and guitar, can describe loneliness with profound feeling — and at the same time that dark loneliness embraces us in the strangest way.
+The piano chords come around you, then the flute, the winds, the guitar, and the whole thing describes loneliness with a depth that gets to you — while the dark of that loneliness somehow holds you at the same time.
 
-A great pine tree, decked with glittering baubles and strings of coloured lights, standing before nearly every shopping mall in sight. If Christmas really is a festival of happiness, then why are there still people who are sad… what is Christmas, really?
+A great pine tree hung with glitter balls and coloured lights, standing outside more or less every shopping centre in sight. If Christmas really is the season of happiness, why are there still people who are sad… what is Christmas, exactly?
 
-Linus says to Charlie Brown: “I know what Christmas is… And there were in the same country shepherds abiding in the field, keeping watch over their flock by night. And, lo, the angel of the Lord came upon them, and the glory of the Lord shone round about them: and they were sore afraid. And the angel said unto them, ‘Fear not: for, behold, I bring you good tidings of great joy,
+Linus tells Charlie Brown: “I know what Christmas is… And there were in the same country shepherds abiding in the field, keeping watch over their flock by night. And, lo, the angel of the Lord came upon them, and the glory of the Lord shone round about them: and they were sore afraid. And the angel said unto them, ‘Fear not: for, behold, I bring you good tidings of great joy,
 
 which shall be to all people. For unto you is born this day in the city of David a Saviour, which is Christ the Lord. And this shall be a sign unto you; Ye shall find the babe wrapped in swaddling clothes, lying in a manger.’ And suddenly there was with the angel a multitude of the heavenly host praising God, and saying, ‘Glory to God in the highest, and on earth peace, good will toward men.’
 
 That’s what Christmas is all about, Charlie Brown.”
 
-Christmas is so often defined for us by advertising — wear a red sweater, green trousers, you must have something pretty to wear on Christmas Day, you must take a photo beside the giant tree, or film yourself dancing on the escalator at Emporium — until we may not even know why we are supposed to be happy on Christmas Day at all.
+Christmas gets defined for us by advertising often enough — wear the red sweater and the green trousers, have something nice on for the day, get the photograph beside the enormous tree, film yourself dancing on the escalator at the Emporium — until we may not even know what we are supposed to be happy about.
 
-Another definition of Christmas is that it is the birthday of Christ, and a festival meant to keep us thinking of and caring for our fellow human beings: to go back and spend time with the people we love, to go home, to find something to do together, or to find a meal to eat with the family, in return for all the busy, chaotic days of our lives.
+The other definition is that it is the birthday of Christ, and a season meant to keep us thinking about the people around us and caring what happens to them: to go back to the ones we love, to go home, to find something to do together, or to put a meal on the table with the family, against all the days that get away from us.
 
-And of course this festival surely doesn’t mean for us to care for one another only at the end of the year. It would be no small thing if we cared for and felt for our fellow inhabitants of this world like this always, and spent more of our time with the people we love. Peace be with you all. Merry Christmas.
+And of course the season is not asking us to care about each other only at the end of the year. It would be no small thing if we felt for the people we share this world with all the time, and spent more of it with the ones we love. Peace be with you all. Merry Christmas.
 
---- Although the deal between Vince and Lee came together nicely, no television channel was interested in airing the documentary, until Coca-Cola offered funding for a Christmas special — with only six months to make it.
+--- Vince and Lee had their deal, but no channel wanted the documentary, until Coca-Cola put up the money for a Christmas special — with six months to make it.
 
-With so little time, the production team took the view that the characters in the show would be voiced by real children, not professional voice actors, speaking the lines and singing the songs Vince had written.
+With the clock against them, the production team decided the characters would be voiced by actual children rather than professionals, speaking the lines and singing the songs Guaraldi had written.
 
-At first the sponsor and the channel both disagreed, on the grounds that it was unprofessional, until the producers began to think this might be an idea that wouldn’t work. But the only reason A Charlie Brown Christmas made it to air was that the channel had run out of time and had to find something to broadcast right then.
+The sponsor and the network both objected on the grounds that it was unprofessional, and the producers themselves started to think the idea might not work. The only reason A Charlie Brown Christmas got on the air at all is that the network had run out of time and needed something to broadcast.
 
-As it turned out, on the night of 9 December 1965, A Charlie Brown Christmas was an unbelievable success. And although the children’s voices weren’t very professional, that was exactly what made the harmonies feel real. ---
+On the night of 9 December 1965 it was an extraordinary success. And though the children’s voices were not remotely professional, that is precisely what made the singing sound like something real. ---

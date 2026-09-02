@@ -5,72 +5,72 @@ category: เพลง
 note: 646
 ---
 
-“If there were a conservatory in hell, and its inmates were set to compose the most depraved melodies imaginable, Mr Rachmaninoff would without question receive full marks — and would doubtless be the favourite among his fellow prisoners.”
+“If there were a conservatory in hell, and its inmates were set to writing the most depraved melodies imaginable, Mr Rachmaninoff would take full marks without question — and would doubtless be the favourite of his fellow prisoners.”
 
-This was one composer’s verdict on the Symphony No. 1 of Sergei Rachmaninoff, who at the time was only 22 years old.
+That was one composer’s verdict on the Symphony No. 1 of Sergei Rachmaninoff, who was twenty-two at the time.
 
-He was one of the most important composers of the Romantic era, following Pyotr Ilyich Tchaikovsky. Why, then, was he criticised so savagely?
+He would become one of the most important composers of the Romantic era, the next after Tchaikovsky. So why was he taken apart quite so savagely?
 
-Rachmaninoff was born in 1873 in a town near Moscow, Russia. He was gifted from childhood; because his father was an amateur pianist, he began practising the piano at only four years old, and was taught by music tutors his mother hired for him from an early age.
+Rachmaninoff was born in 1873 in a town near Moscow. The gift was there early: his father was an amateur pianist, so he was practising by the age of four, and his mother hired tutors for him almost as soon.
 
-The Rachmaninoff family ran into financial trouble time and again and had to move house often. Rachmaninoff also lost two sisters before he was able to begin studying at a conservatory.
+The family ran into money trouble repeatedly and had to keep moving house. Rachmaninoff also lost two sisters before he ever got to a conservatory.
 
-He once ran away from home to Moscow and went to stay with relatives he knew. He was shaped by Christianity and came to know the church — where he heard the singing inside it, and the bells, which would go on to inspire his own composing later.
+He once ran away from home to Moscow and stayed with relatives. Christianity shaped him there; he came to know the church, and heard the singing inside it and the bells outside — both of which would turn up in his own music later on.
 
-Although Rachmaninoff was gifted at the piano, he could not pass his music examinations, and so could not gain admission to any university.
+Gifted as he was at the piano, he could not pass his music examinations, which shut him out of any university.
 
-Not long afterwards, however, he was given the chance to perform at the Moscow Conservatory. That led his cousin, a musician at the time, to recommend him for study at the Moscow Conservatory at last.
+Not long after, though, he was given a chance to play at the Moscow Conservatory, which led his cousin, a working musician, to put his name forward — and he got in at last.
 
-Rachmaninoff composed his Piano Concerto No. 1 at only eighteen, had the chance to perform for his idol Tchaikovsky, and graduated from the conservatory with the highest honours.
+He wrote his Piano Concerto No. 1 at eighteen, played for his idol Tchaikovsky, and graduated from the conservatory with the highest honours.
 
-Rachmaninoff’s uncertain but determined life carried on, now as a freelance musician.
+His life went on, uncertain and stubbornly determined, now as a freelance musician.
 
-Not long after graduating, Rachmaninoff wrote a fantasia called ‘The Rock’, with his own role model, Tchaikovsky, as its conductor.
+Soon after graduating he wrote a fantasia called ‘The Rock’, with Tchaikovsky himself conducting.
 
-But ill fortune struck soon after: while Rachmaninoff was travelling to Kyiv to conduct another of his works, ‘Aleko’, he received the news of Tchaikovsky’s death.
+Then the luck turned. While Rachmaninoff was travelling to Kyiv to conduct another of his pieces, ‘Aleko’, the news came that Tchaikovsky had died.
 
-Rachmaninoff fell into deep shock. The programme to conduct Aleko was dropped along the way. He lost all spirit for composing, but since he still had to eat and live, he had to take on piano teaching (which he loathed) and tour for three months with an Italian violinist to make a living.
+He went into deep shock. The Aleko programme was dropped en route. He had nothing left for composing — but he still had to eat, so he took on piano pupils, which he detested, and toured for three months with an Italian violinist to keep himself going.
 
-The touring, however, seems not to have fulfilled him much. Rachmaninoff dropped out of the tour as well, and had to pay compensation on top of it. Fortunately he had composed his Symphony No. 1 before the tour began.
+The touring did not fill the hole either. He dropped out of that as well, and had to pay compensation on top of it. Fortunately, he had written the Symphony No. 1 before the tour began.
 
-Even so he worked so hard that he had no time even to hear the piece he had written — not until he heard it again at the premiere of the Symphony No. 1.
+Even so he worked so hard that he never had time to hear the piece he had written — not until the Symphony No. 1 was given its premiere.
 
-But the result was not what he had hoped. The orchestra had not rehearsed enough and the conductor was unprepared, and the performance that looked as though it might rescue him collapsed in an instant.
+It did not go as he had hoped. The orchestra was under-rehearsed and the conductor was not ready, and the performance that might have rescued him fell apart in front of him.
 
-So much so that a Russian music critic wrote:
+Enough so that a Russian critic wrote:
 
-“If there were a conservatory in hell, and its inmates were set to compose the most depraved melodies imaginable, Mr Rachmaninoff would without question receive full marks — and would doubtless be the favourite among his fellow prisoners.”
+“If there were a conservatory in hell, and its inmates were set to writing the most depraved melodies imaginable, Mr Rachmaninoff would take full marks without question — and would doubtless be the favourite of his fellow prisoners.”
 
-After that performance, Rachmaninoff fell into depression and could not compose anything at all for three full years…
+After that night Rachmaninoff fell into a depression and wrote nothing at all for three full years.
 
-For more than three years Rachmaninoff had no inspiration left. But in 1900, at the age of 26, his relatives introduced him to a psychologist named Nikolai Dahl.
+For more than three years there was nothing in him. Then, in 1900, at twenty-six, his relatives introduced him to a psychologist named Nikolai Dahl.
 
-Nikolai treated Rachmaninoff with hypnotherapy, building up his confidence daily, and also improving his sleep schedule, his mood, his appetite, and reawakening his will to compose.
+Dahl treated him with hypnotherapy, working on his confidence daily, and along with it his sleep, his mood, his appetite, and his will to write.
 
-Rachmaninoff’s ideas came back to him little by little, until in April 1901 he completed his own “Piano Concerto No. 2”, performed with himself as soloist.
+The ideas came back a piece at a time, until in April 1901 he finished the Piano Concerto No. 2 and performed it with himself as soloist.
 
-A concerto is divided into three movements, played fast, slow, fast in that order, each running to ten minutes or more.
+A concerto comes in three movements, played fast, slow, fast, each running ten minutes or more.
 
-The concerto’s first eight chords begin with the piano, intended to sound like the bells of the Orthodox church Rachmaninoff went to as a child, as mentioned above.
+The concerto’s first eight chords are piano alone, meant to sound like the bells of the Orthodox church he went to as a child.
 
-After the piano’s opening scene, the strings and clarinet gradually take up the main melody, while the piano plays rather low notes, supporting the other instruments.
+After that opening, the strings and clarinet take up the main melody while the piano stays low, holding everything else up.
 
-Rachmaninoff’s melodic writing can be divided into three sub-melodies, or motifs, which he arranges in alternation to create passages that work like question and answer, one after another through each movement.
+Rachmaninoff’s melodic writing breaks down into three motifs, which he shuffles against one another to build passages that work like question and answer, on and on through each movement.
 
-The question passage arranges the motifs one way, the answer passage another — like a story told on and on.
+The question passage arranges the motifs one way, the answer another — a story told a stretch at a time.
 
-In the question passage, for instance, he uses chords that do not sound bright the way a major chord does, but have a diminished chord worked in, creating tension for the listener, as though the music were not quite finished and needed the answer passage to resolve it at the end.
+In the question passages, for instance, the chords are not bright the way a major chord is; there is a diminished chord worked in, which puts tension under the listening, as though the music were not finished and needed the answer to settle it.
 
-Throughout the piece Rachmaninoff also uses a playing technique that seems to press on certain notes, making the melody feel more alive — what is called tenuto — giving the melody life from beginning to end.
+Throughout, he uses a technique that seems to lean on certain notes and make the melody breathe — tenuto — keeping the line alive from one end to the other.
 
-You can see that as classical music entered the Romantic era, the placing of emotion into melody appeared more and more. Beyond that, Rachmaninoff shows the beginnings of a structure for arranging melody so as to give a piece both narrative and feeling to an even greater degree.
+You can see that once classical music reached the Romantic era, putting feeling into a melody came out more and more into the open. Beyond that, Rachmaninoff shows the beginnings of a structure for arranging melody so that a piece carries narrative and feeling at once.
 
-The whole work is full of melodic paths, turning points, joy, deep sorrow, hope, triumph — and everything is designed to sit within a single structure. Rachmaninoff wrote not merely a piece of music but a story: an account of one of the most important journeys of his own life.
+The whole work is full of paths and turning points, of joy, of deep grief, of hope and of arrival, and all of it built to sit inside a single structure. What he wrote was not merely a piece of music but a story — the account of one of the most important journeys of his own life.
 
-The premiere of Rachmaninoff’s Second Concerto was an overwhelming success, and it is named among the finest concertos of the Romantic era.
+The premiere was an overwhelming success, and the concerto is named among the finest of the Romantic era.
 
-Rachmaninoff went on composing other works, many of them successful — for example the ‘Rhapsody on a Theme of Paganini’.
+He went on writing, and much of it succeeded — the ‘Rhapsody on a Theme of Paganini’, for one.
 
-A young man from a small town in Russia surely never imagined that one day he would become a legend, following in the footsteps of the role model he held in his heart forever, Tchaikovsky. But the Romantic era stepped into melodies more important and more beautiful still, thanks to one man named Sergei Rachmaninoff.
+A young man from a small Russian town can hardly have expected to end up a legend himself, following the man he had looked up to all his life. But the Romantic era took another step into something more important and more beautiful, on account of one Sergei Rachmaninoff.
 
 Sources: Wikipedia — Piano Concerto No. 2 (Rachmaninoff); YouTube — Piano Concerto No. 2 Analysis, Frederick Viner

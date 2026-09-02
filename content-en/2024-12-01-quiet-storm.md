@@ -5,66 +5,66 @@ category: Story
 note: 319
 ---
 
-“What on earth is this genre?” That was what I said out loud after Spotify told me how many new genres I had discovered this year — and the one that puzzled me most was “Quiet Storm.” So today, Background Music would like to introduce you to it.
+“What on earth is this genre?” That was what came out of my mouth when Spotify told me how many new genres I had turned up this year. The one that puzzled me most was “Quiet Storm.” So today, Background Music would like to introduce you to it.
 
 Who are We Going to Be?
 
-Between 1950 and 1960, the United States saw the African-American civil rights movement, which brought enormous change to the country.
+Between 1950 and 1960, the African-American civil rights movement swept through the United States and changed the country enormously.
 
-More Black Americans received a university education, employment rates rose, and they moved into the cities. This was the beginning of a Black American middle class.
+More Black Americans went to university, employment rose, and they moved into the cities. This was where a Black American middle class began.
 
-Through the 1970s, media of every kind — radio and magazines alike — began making more room for Black audiences. These outlets did not merely build a Black community; they also built an identity, an image of what being middle class was supposed to look like.
+Through the 1970s, radio and magazines alike started making room for Black audiences. These outlets did not only build a Black community; they built an identity, a picture of what being middle class was supposed to look like.
 
-Magazines ran advertisements telling the Black middle class what to eat, what to drink, which brand of cigarettes to smoke, where to go on holiday — and, eventually, what to listen to.
+Magazines ran advertising telling the Black middle class what to eat, what to drink, which brand to smoke, where to take a holiday — and, in the end, what to listen to.
 
-As it turned out, the 1970s became the golden age of soul and R&B. New music emerged from endless experimentation, jazz and R&B fused into one, and a generation of Black artists was born: Marvin Gaye, Stevie Wonder, Roberta Flack, Al Green, and many more.
+The 1970s turned out to be the golden age of soul and R&B. New music came pouring out of constant experiment, jazz and R&B collapsed into one another, and a generation of Black artists arrived: Marvin Gaye, Stevie Wonder, Roberta Flack, Al Green, and plenty more.
 
-One of those soul artists was Smokey Robinson.
+One of those soul singers was Smokey Robinson.
 
-In 1975, Robinson released a new album called “A Quiet Storm.” He told a newspaper: “I realised I had to change my singing style to get where I wanted to go. So now I sing softer, and my voice has become clearer.”
+In 1975 Robinson released a new album called “A Quiet Storm.” He told a newspaper: “I knew I had to change the way I sang to get where I wanted to go. So I sing softer now, and my voice has opened up.”
 
 [———————————————]
 
 A Summer Night at Washington D.C.
 
-After the civil rights movement, Washington D.C. in 1976 was 77% Black — so much so that the band Parliament nicknamed the city “Chocolate City.”
+After the civil rights years, Washington D.C. in 1976 was 77% Black — so much so that the band Parliament christened it “Chocolate City.”
 
-Washington D.C. gave rise to a great many radio stations that locals called “Black radio stations,” aimed squarely at Black listeners. Every one of them was white-owned.
+The city threw up a great many radio stations that locals called Black radio stations, aimed squarely at Black listeners. Every one of them was white-owned.
 
-Every one but a single station, which was Black-owned: WHUR, owned by Howard University, one of the country’s historically Black universities.
+Every one but one. WHUR was owned by Howard University, one of the country’s historically Black universities.
 
-WHUR was generally known for playing jazz, speeches, and poetry. Then everything changed on a summer night in 1976.
+WHUR was generally known for jazz, speeches, and poetry. Then, on a summer night in 1976, that changed.
 
-“The songs I am about to play mean a great deal to me. I want you to listen closely to the words. This is what I mean to give you — from me to you.”
+“The songs I’m about to play mean a great deal to me. I want you to listen closely to the words. This is what I mean to give you — from me to you.”
 
-Melvin Lindsey, a communications student on an internship at WHUR, was given his own show after the evening news, from seven at night until midnight.
+Melvin Lindsey, a communications student interning at WHUR, was handed his own show after the evening news, seven at night until midnight.
 
-Lindsey mostly played slow to mid-tempo soul and R&B — the tempo we call a ballad — along with light jazz from artists such as Sarah Vaughan and Nat King Cole.
+Lindsey mostly played slow and mid-tempo soul and R&B — ballads — along with light jazz from the likes of Sarah Vaughan and Nat King Cole.
 
-Lindsey’s selections were not merely charming and warm; they carried words he wanted to pass on to his listeners. Between songs he would talk to them, so that no one felt alone for the whole broadcast.
+What he chose was not just charming and warm; the words in those songs were what he wanted to pass on. Between records he would talk, so that nobody listening felt alone for the length of the broadcast.
 
-Within a year Lindsey had graduated, signed a three-year contract with WHUR, and named his show “Quiet Storm,” after the Smokey Robinson album and song.
+Within a year Lindsey had graduated, signed a three-year contract with WHUR, and named the show “Quiet Storm,” after the Smokey Robinson album.
 
 [———————————————]
 
 From a Show, to a Radio Format, and then a Genre
 
-Lindsey’s “Quiet Storm” was an overwhelming success. In the Washington D.C. radio ratings, Quiet Storm shot to number one.
+Lindsey’s “Quiet Storm” took off. In the Washington D.C. ratings it went straight to number one.
 
-“What happened was, there was a guy who started a show called Quiet Storm, and then another station started doing it, and then Baltimore, then New York, then Philadelphia — and then it became a radio format,” said Smokey Robinson, the man behind the album.
+“What happened was, a guy started a show called Quiet Storm, then another station picked it up, then Baltimore, then New York, then Philadelphia — and then it was a radio format,” said Smokey Robinson.
 
-The Quiet Storm format meant playing jazz or R&B ballads from the evening into the small hours.
+The format meant jazz or R&B ballads, from the evening into the small hours.
 
-The indispensable ingredient was the show’s DJ. Man or woman, it did not matter — but the voice had to be slow, warm, and charming.
+The one thing it could not do without was the DJ. Man or woman, it made no difference — but the voice had to be slow, warm, and easy to fall into.
 
-“Take the blanket off, turn the heat up. Your landlord won’t turn the heater on until the fifteenth? Then I suppose you’ll have to find that warmth from somebody else.”
+“Take the blanket off, turn the heat up. Your landlord won’t put the heater on till the fifteenth? Then I suppose you’ll have to find that warmth from somebody else.”
 
-And the last thing that made the show complete was the voice on the other end of the line. The show invited listeners to call in — to request a song, to confess something to the person they liked, or even to talk over their problems with the host.
+And what finished the whole thing off was the voice on the other end of the line. Listeners were invited to call in — to ask for a song, to say something to the person they liked, or just to talk their problems over with the host.
 
-That was what carried people through the hard stretches of their lives, and made whoever was listening feel that he or she was not the only one out there with the radio on.
+That is what got people through the bad stretches, and what made whoever was listening feel they were not the only one awake with the radio on.
 
-After that, Quiet Storm became an image, and then a genre in its own right. The definition would be something like: R&B ballads, jazz, a touch of gospel, lyrics about love or about telling some kind of story — and warmth for the listener.
+From there Quiet Storm hardened into an image, and then into a genre in its own right. The definition runs something like: R&B ballads, jazz, a little gospel underneath, lyrics about love or about telling some kind of story, and warmth for whoever is listening.
 
-Today Quiet Storm goes by many other names, such as slow jams, and it keeps being sampled — in nineties hip-hop and in the work of new rappers alike.
+Today it goes by other names too — slow jams, for one — and it keeps getting sampled, in nineties hip-hop and by new rappers alike.
 
-Quiet Storm can fairly be called a genuinely timeless genre, because it reaches something in us that does not change no matter what stage of life we are in.
+Which makes Quiet Storm genuinely timeless, in the real sense: it reaches something in us that does not much care what year it is.

@@ -5,30 +5,31 @@ category: เพลง
 note: 465
 ---
 
-“ฉันท่องบินสุดขอบฟ้า ก่อปฏิวัติถึงสเปน
-พิชิตขั้วโลกเหนือแสนหนาวเย็น แต่มิอาจเป็นสิ่งใดสำหรับคุณ”
+“I’ve flown to the edge of the sky, started a revolution in Spain,
+conquered the freezing North Pole — and still I am nothing at all to you.”
 
-“I Can’t Get Started” is one of the classics of the jazz repertoire. Before it went on to be recorded again and again, the song was written by Vernon Duke (music) and Ira Gershwin (lyrics), and first presented in a musical in 1936.
+“I Can’t Get Started” is one of the standards of the jazz repertoire. Long before it was recorded and re-recorded to death, it was written by Vernon Duke (music) and Ira Gershwin (words), and first turned up in a 1936 musical.
 
-Vernon Duke had already written a number of famous songs, among them ‘April in Paris’ (1932) and ‘Autumn in New York’ (1934). Those songs, along with ‘I Can’t Get Started’, all became jazz standards that have been played ever since, right up to the present.
+Duke already had a string of well-known songs behind him — ‘April in Paris’ (1932), ‘Autumn in New York’ (1934) — and those, together with ‘I Can’t Get Started’, all settled into the jazz canon and have been played ever since.
 
-As for Ira Gershwin, many will find the surname Gershwin familiar — and indeed Ira Gershwin was the elder brother of George Gershwin, the American classical-jazz composer behind works such as ‘Rhapsody in Blue’ (1924).
+As for Ira Gershwin, the surname will ring a bell, and for good reason: Ira was the elder brother of George Gershwin, the American composer of ‘Rhapsody in Blue’ (1924).
 
-After ‘I Can’t Get Started’ was written, the man who adapted it and made it famous was the American trumpeter Bunny Berigan. He made a few changes, adding a cadenza.
+The man who took the song and made it famous was the American trumpeter Bunny Berigan. His changes were small — chiefly, he added a cadenza.
 
-A cadenza is a passage in which the principal instrument shows off its skill and its live playing, and may appear at the beginning or the end of a piece, before and after the main melody. The cadenza is an element drawn from the concerto form we often hear in classical music.
+A cadenza is a passage where the lead instrument gets to show what it can do, playing more or less freely. It can sit at the top or the tail of a piece, before or after the main melody, and it comes to us from the concerto form familiar from classical music.
 
-I Can’t Get Started has been recorded both with and without a singer. As for the melody, it is a slow piece, with pauses, with its own characteristic swells of loud and soft, and with the final note held out at extraordinary length. If you listen, it is not hard to be carried along by the sweetness of the voice — or even of the instrument itself.
+I Can’t Get Started has been recorded both with and without a singer. The melody is slow, full of pauses, with its own way of swelling and dropping away, and a final note held out for what feels like forever. Listen once and it is not hard to be carried off by the sweetness of the voice — or of whichever instrument is doing the singing.
 
-For the lyrics, Ira Gershwin wrote of a young woman who has conquered everything, from the North Pole to the ends of the sky, who has been a star in a famous film, and who has even had her pick of a husband from a high-born family. But what does any of it mean if she cannot get started with the one she dreams of?
+Ira Gershwin’s lyric is about a woman who has conquered everything there is to conquer: the North Pole, the far edge of the sky, a starring role in a hit film, even her pick of a husband from a good family. And what is any of it worth if she cannot get started with the one person she actually wants?
 
-I Can’t Get Started has been recorded again and again by many artists. Among those I would like everyone to hear are:
+The song has been recorded again and again. Among the versions I would point you toward:
 Billie Holiday (1938)
 Lester Young, Oscar Peterson Trio (1954)
 The Buddy DeFranco Quintet (1958)
 Ella Fitzgerald (1962)
 
-“ในสนามกอล์ฟฉันทำอันเดอร์พาร์   เป็นถึงดาราในหนังดัง
-มีคฤหาสถ์ บ้านหนึ่งหลัง   ถึงเพียงนั้น ไม่มีที่ใดเลย สำหรับฉันและคุณ”
+“On the golf course I come in under par. I’m a star in a hit picture.
+I have a mansion, a house of my own —
+and even so, there is nowhere at all for you and me.”
 
 Sources: Sudhalter, Richard M. (1982). Giants of Jazz — Bunny Berigan. Time-Life Records. p. 43; Wikipedia — I Can’t Get Started

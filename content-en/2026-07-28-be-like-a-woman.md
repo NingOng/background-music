@@ -8,22 +8,22 @@ note: 739
 “...Do what you want
 But be like a woman to me...”
 
-Anyone on TikTok has surely heard a snippet like this. There is something special in the song that holds us and keeps us listening to this hit, no matter how many people’s slideshows it turns up in.
+Anyone on TikTok has heard a snippet like this. There is something in the song that holds on to you and keeps you listening, no matter how many people’s slideshows it has turned up in.
 
-Chris Rainbow, the man behind “Be Like a Woman” (1979), was a pop-rock singer and musician from Glasgow, Scotland. He once worked as a graphic designer before turning to music later on.
+Chris Rainbow, who made “Be Like a Woman” (1979), was a pop-rock singer and musician from Glasgow. He worked as a graphic designer before turning to music.
 
-Chris released three albums in all, beginning in 1975, up to 1979, when he put out his last solo album, “White Trails” — the album with Be Like a Woman on it.
+He released three albums in all, starting in 1975, up to 1979, when he put out his last solo record, “White Trails” — the one Be Like a Woman is on.
 
-Not long afterwards, Chris joined in producing music for The Alan Parsons Project, the famous English progressive rock band, and sang on several of Alan Parsons’ albums, from ‘Eve’, ‘The Turn of a Friendly Card’, and ‘Eye in the Sky’, through to ‘Gaudi’.
+Not long after, Chris was drawn into producing for The Alan Parsons Project, the famous English progressive rock band, and sang on several of Parsons’ albums: ‘Eve’, ‘The Turn of a Friendly Card’, ‘Eye in the Sky’, on through to ‘Gaudi’.
 
-The first time I heard Be Like a Woman on TikTok, I was astonished at why this song had such distinctive harmony vocals. I then went through Chris’s other songs on White Trails and found that others, such as ‘Don’t Take the Night Away’, likewise had many, many layers of stacked vocals — and with reverb on top, the voice becomes the star of the show entirely.
+The first time I heard Be Like a Woman on TikTok, what struck me was why the backing vocals sounded like that. So I went through the rest of White Trails and found the same thing everywhere — ‘Don’t Take The Night Away’ and the others are stacked many layers deep, and with reverb on top the voice simply takes over the record.
 
-Alan Parsons described Chris Rainbow in an article as “the one man Beach Boy.” By way of background, The Beach Boys were an American band known above all for their choral singing, their harmony, and their distinctive arrangement of backing lines.
+Alan Parsons once described Chris Rainbow as “the one man Beach Boy.” By way of background: The Beach Boys were the American band known above all for their choral singing, their harmony, and the way they arranged the lines behind the lead.
 
-Alan Parsons said this because, when they worked together, Chris would go in and record dozens of his own lines — from the bass, through all the middle notes, up to the soaring high ones — so that the harmony would come out as beautiful as possible.
+Parsons said it because, when they worked together, Chris would go in and record dozens of his own lines — the bass, everything in the middle, up to the notes at the very top — so the harmony would come out as beautifully as it possibly could.
 
-Chris himself was already a particular fan of The Beach Boys. On his second album there is a song called “Dear Brian,” written for Brian Wilson, one of the members of The Beach Boys. Brian heard the song only after Chris had died. “I felt the beautiful music. I feel deeply honoured,” Brian said of the song Chris wrote for him.
+Chris was a Beach Boys fan himself. His second album has a song called “Dear Brian,” written for Brian Wilson. Brian only heard it after Chris had died. “I felt the beautiful music. I feel deeply honoured,” he said of it.
 
-There is unquestionably something special about Chris Rainbow’s music. Arranging melodic lines so that they stack in so many layers and still combine into one resonant, beautiful sound is certainly no easy thing. And when he sings those songs, even in a chorus heard over and over, the melody is threaded with endless small details. Every sound he sings seems to be drawn out from the heart, pleading with us to keep listening to his music forever.
+There is unquestionably something particular about Chris Rainbow’s songs. Arranging melodic lines so they stack that many layers deep and still come out as one ringing sound is not an easy thing to do. And when he sings them, even in a chorus you have heard a dozen times, the melody keeps turning up small details you had not noticed. Every sound seems to be pulled straight out of him, asking us to keep listening.
 
 Sources: A Tune a Day, Chris Rainbow; Jazz Rock Soul, Chris Rainbow

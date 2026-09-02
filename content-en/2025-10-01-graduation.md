@@ -7,13 +7,13 @@ note: 577
 
 Graduation ; Hyukoh ; 2018
 
-“Congrats! You’ve graduated. How does it feel?” These are words most of us hope to hear from friends and family when we finish our studies. And it does feel good — very good, in fact. But what are we going to do with the future from here, in a world as uncertain as this one?
+“Congrats! You’ve graduated. How does it feel?” Most of us hope to hear something like that from friends and family when we finish. And it does feel good — very good. But what exactly are we supposed to do with the future from here, in a world this uncertain?
 
-There is something quietly funny about Oh Hyuk naming a song ‘Graduation’, given that he never actually graduated from university — having dropped out of the art school he was attending in order to focus on the music he was making at the time.
+There is something quietly funny about Oh Hyuk calling a song ‘Graduation’, given that he never graduated at all — he dropped out of the art school he was at to concentrate on the music he was making.
 
-‘24’ was his own age, and that of everyone else in the band. The EP was titled “24: How to find true love and happiness,” and he said many times while performing live: “I made this album because I wanted to find true love and happiness. I hope you find those things too.”
+‘24’ was his own age, and everyone else’s in the band. The EP was called “24: How to find true love and happiness,” and he said more than once on stage: “I made this album because I wanted to find true love and happiness. I hope you find them too.”
 
-‘Graduation’ opens simply, with a conversation between a young man and a young woman.
+‘Graduation’ opens simply, on a conversation between a young man and a young woman.
 
 “I ask a favor, ‘could you pass me the lighter’
 
@@ -21,7 +21,7 @@ She said ‘ah whatever’
 
 But yeah with some manner”
 
-From a verse of teasing back and forth, the drums suddenly come crashing in and shift the mood of the song into the chorus all at once.
+Out of that teasing back and forth, the drums come crashing in and throw the whole thing into the chorus at once.
 
 “We started staring at the other sides
 
@@ -31,12 +31,12 @@ Rosy cheeks blushing with a nervous smile
 
 All the fears are flushing all the ways”
 
-A chorus filled with the delay of countless effects, along with the song’s distinctive guitar riff, creates a confused, chaotic mood utterly at odds with how the song began.
+A chorus buried in delay, with the song’s distinctive guitar riff over the top, produces a confusion completely at odds with how the thing started.
 
-And isn’t that rather like the feeling when we graduate? Bewildered, confused, faced with eight million possible paths. We may return to calm, only to be thrown back into turmoil a moment later, travelling on without end.
+Which is not far off how it feels to graduate, is it? Bewildered, confused, staring at eight million possible roads. Calm comes back for a moment and then the noise starts again, and it keeps going.
 
-Oh Hyuk seems to see the word ‘Graduation’ not as an ending but as the beginning of something — perhaps the beginning of a complicated, messy relationship, as in the lyrics; the beginning of the search for true happiness; or even in the choice to place this song at the opening of the EP.
+Oh Hyuk seems to treat ‘Graduation’ not as an ending but as the start of something — the start of a complicated, messy relationship, as in the lyrics; the start of looking for actual happiness; or simply the choice to put this song first on the EP.
 
-“We spent the whole time making this EP looking for where happiness or love was. I found out afterwards that it’s hidden in the journey more than anything. We put our effort into the road in between, and I think that’s enough to count as love and happiness,” said the guitarist Hyun-jae.
+“We spent the whole time making this EP looking for where happiness and love were. What I found out afterwards is that it’s hidden in the journey more than anywhere. We put the work into the road in between, and I think that’s enough to count as love and happiness,” said the guitarist, Hyun-jae.
 
-Even the longest journey has to end, but we might assume that something new must begin as well. And whatever those things turn out to be, don’t forget to look for love and happiness along that road, whatever we may find there.
+Even the longest journey has to end, but we can assume something new starts up as well. And whatever it turns out to be, do not forget to look for love and happiness somewhere along that road, whatever else you run into.
