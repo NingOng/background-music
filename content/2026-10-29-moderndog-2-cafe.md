@@ -1,5 +1,5 @@
 ---
-title: "Moderndog 2 Cafe"
+title: "Cafe by Moderndog"
 date: 2026-10-29
 category: อัลบั้ม
 note: 825
